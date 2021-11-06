@@ -1,0 +1,72 @@
+body{
+	background-color: lightgrey;
+}
+
+#uno {
+	width: 1100px;
+	height:1350px;
+	margin-top: 20px;
+	margin: auto;
+	padding:20px 60px;
+	background-color: #DBF2FA;
+}
+
+#Menu {
+	width: auto; 
+	height:auto;
+	margin: 10px;
+}
+#dos {
+	width: auto;
+	height:45px;
+	background-color: #1fe95be5;
+}
+#ministerios {
+	background-color: #90DBF8;
+	width: 1080px ; 
+	height:450px;
+	left:20px;
+}
+
+/*.ministerio {
+	width: 200px; 
+	padding:30px 30px;
+}
+
+ #ESPIRITU {
+	width: 200px; 
+	height:0px;
+	padding: 0px 300px;
+}
+
+
+#DISCIPULADO{
+	width: 200px; 
+	height:0px;
+	padding:0px 530px;
+}
+
+#MISIONES{
+	width: 200px; 
+	height:0px;
+	padding: 0px 760px;
+} */
+
+h1 {
+ font-size: 22px;
+ font-style: italic;
+}
+h2 {
+	font-size: 35px;
+	font-style: italic;
+	text-align: center;
+   }
+   h3 {
+	font-size: 36px;
+	font-style: tahoma;
+   }
+   p{font-size: 19px;
+	font-style: 'Open sans';
+
+   }
+
